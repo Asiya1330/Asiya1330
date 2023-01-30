@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mern stack developer
 - 🌱 I’m currently learning Node js and React js
 - 💞️ I’m looking to collaborate on Projects related to Mern 
-- 📫 How to reach me asiya.batool987@gmail.com
+- 📫 How to reach me asiya@scaylar.com
 
 <!---
 Asiya1330/Asiya1330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
