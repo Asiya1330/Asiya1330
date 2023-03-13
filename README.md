@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asiya1330
 - 👀 I’m interested in Mern stack developer | AWS services | VueJS | NextJS | WordPress
 - 🌱 I’m currently learning Node js, React js, AWS
-- 💞️ I’m looking to collaborate on Projects related to Mern 
+- 💞️ I’m looking to collaborate on Projects related to Mern | AWS services | JS frameworks
 - 📫 How to reach me asiya.batool987@gmail.com
 
 <!---
