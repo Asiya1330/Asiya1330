@@ -5,6 +5,9 @@
 - 📫 How to reach me asiya.batool987@gmail.com | asiya1330#0941(Discord) | https://aarin-amaya.netlify.app/
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Asiya1330/Asiya1330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
