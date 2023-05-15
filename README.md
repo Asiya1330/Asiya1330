@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects related to Mern | AWS services | JS frameworks | Wordpress
 - 📫 How to reach me asiya.batool987@gmail.com | asiya1330#0941(Discord) | https://aarin-amaya.netlify.app/
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asiya1330)](https://github.com/anuraghazra/github-readme-stats)
+[![Asiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asiya1330)](https://github.com/Asiya1330/Asiya1330)
 
 
 <!---
