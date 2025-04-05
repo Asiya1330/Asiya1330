@@ -10,10 +10,10 @@
 <hr>
 
 - 👋 Hi, I’m @Asiya1330
-- 👀 I’m interested in Mern stack developer | AWS services | VueJS | NextJS | WordPress
+- 👀 I’m interested in Mern stack developer | AWS services | VueJS | NextJS 
 - 🌱 I’m currently learning AWS, GraphQl, Docker
-- 💞️ I’m looking to collaborate on Projects related to Mern | AWS services | JS frameworks | Wordpress
-- 📫 How to reach me asiya.batool987@gmail.com | Asiya#0941(Discord)
+- 💞️ I’m looking to collaborate on Projects related to Mern | AWS services | JS frameworks 
+- 📫 How to reach me asiya.batool987@gmail.com 
 
 [![Asiya's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asiya1330&show_icons=true&theme=radical)](https://github.com/Asiya1330/Asiya1330)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asiya1330&layout=compact&theme=radical)](https://github.com/Asiya1330/Asiya1330)
